@@ -2,3 +2,5 @@
 
 Olá! Seja bem vindo(A) ao livro de receitas!
 
+- Strogonoff de Frango
+- Pavê
